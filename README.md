@@ -4,7 +4,7 @@
  <br>
  <h1 align="center">Hello &lt;techies/&gt; <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></span>, I'm <b>AYUSHI KOLAY</b> <img src="https://media2.giphy.com/media/3zwIAzcmjLJtDiTwL1/giphy.gif?cid=ecf05e4718ojreifneblt1af0arhtmv5jbfezx2xsl3xizhb&rid=giphy.gif&ct=s" width="50px"/></h1>
 
-<h4> <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470u67bcxkmz86f1uza3mp3o7wix4mht7csh73ibvd&rid=giphy.gif&ct=g" width="50px"/> Software Engineer, a beginner in MERN Stack Development.</h4>
+<h3> <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470u67bcxkmz86f1uza3mp3o7wix4mht7csh73ibvd&rid=giphy.gif&ct=g" width="50px"/> <big>Software Engineer, a beginner in MERN Stack Development.</big></h3>
 
 
  - 👨🏻‍💻 I’m currently working on something cool;
@@ -22,7 +22,7 @@
 
 
 
-### :zap: GitHub Stats 
+<h2> GitHub Stats </h2>
 
 <p align="center">&nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushikolay&show_icons=true&hide_border=true&&count_private=true&theme=dracula&include_all_commits=true" />
 &nbsp;
@@ -37,18 +37,26 @@
 </p>
 
 <hr>
-### :zap: Languages and Tools<br>
+<h2>Languages and Tools</h2>
+ <br>
 <p align="left">
 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/></code> 
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
+  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e4745npjsw8ahc8eac2nuf4h5w1t7f62ndgrthqt2mc&rid=200w.webp&ct=s" alt="HTML5" width="40" height="40"/> 
+  <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47dtmrsungt1l9tmth3dgrsjvzlzhs4p614uscxxng&rid=200w.webp&ct=s" alt="CSS3" width="40" height="40"/> 
+  <img src="https://media3.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47dtmrsungt1l9tmth3dgrsjvzlzhs4p614uscxxng&rid=200w.webp&ct=s" alt="Bootstrap" height="40"/> 
+  <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" alt="JS" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e477ag823c8ddaykfhokbv8poiml5arpyhdiajo5liv&rid=200w.webp&ct=s" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>
+ <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/>
+ 
 </p>
 
 
