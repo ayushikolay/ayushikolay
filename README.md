@@ -60,11 +60,3 @@
 </p>
 
 
-<!---
-Connect with me
-<hr>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushikolay-1807/)
-
-ayushikolay/ayushikolay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
