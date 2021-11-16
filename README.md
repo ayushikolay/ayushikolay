@@ -44,7 +44,7 @@
   <img src="https://github.com/ayushikolay/ayushikolay/blob/main/html5.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://github.com/ayushikolay/ayushikolay/blob/main/css3.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://media3.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47dtmrsungt1l9tmth3dgrsjvzlzhs4p614uscxxng&rid=200w.webp&ct=s" alt="Bootstrap" height="40"/> 
-  <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" alt="JS" height="40"/> 
+  <img src="https://github.com/ayushikolay/ayushikolay/blob/main/Javascript.png" alt="JS" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> 
   <img src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e477ag823c8ddaykfhokbv8poiml5arpyhdiajo5liv&rid=200w.webp&ct=s" alt="React" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/>
