@@ -41,7 +41,7 @@
  <br>
 <p align="left">
 
-  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e4745npjsw8ahc8eac2nuf4h5w1t7f62ndgrthqt2mc&rid=200w.webp&ct=s" alt="HTML5" width="40" height="40"/> 
+  <img src="https://github.com/ayushikolay/ayushikolay/blob/main/html5.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://github.com/ayushikolay/ayushikolay/blob/main/css3.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://media3.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200w.webp?cid=ecf05e47dtmrsungt1l9tmth3dgrsjvzlzhs4p614uscxxng&rid=200w.webp&ct=s" alt="Bootstrap" height="40"/> 
   <img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" alt="JS" height="40"/> 
