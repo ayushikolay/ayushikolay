@@ -7,7 +7,7 @@
 <h3> <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470u67bcxkmz86f1uza3mp3o7wix4mht7csh73ibvd&rid=giphy.gif&ct=g" width="50px"/> <big>Software Engineer, a beginner in MERN Stack Development.</big></h3>
 
 
- - 👨🏻‍💻 I’m currently working on something cool;
+ - 👨🏻‍💻 I’m currently working on MERN Stack;
 - 👀 I’m interested in FrontEnd & Backend Development.
 - 🌱 Enhancing my knowledge on Web Development.
 - 📫 Reach out to me: <a href="mailto:ayushi18071998@gmail.com">Gmail</a>
