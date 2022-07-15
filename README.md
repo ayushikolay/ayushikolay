@@ -4,7 +4,7 @@
  <br>
  <h1 align="center">Hello &lt;techies/&gt; <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></span>, I'm <b>AYUSHI KOLAY</b> <img src="https://media2.giphy.com/media/3zwIAzcmjLJtDiTwL1/giphy.gif?cid=ecf05e4718ojreifneblt1af0arhtmv5jbfezx2xsl3xizhb&rid=giphy.gif&ct=s" width="50px"/></h1>
 
-<h3> <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470u67bcxkmz86f1uza3mp3o7wix4mht7csh73ibvd&rid=giphy.gif&ct=g" width="50px"/> <big>Software Engineer, a beginner in MERN Stack Development.</big></h3>
+<h3> <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e470u67bcxkmz86f1uza3mp3o7wix4mht7csh73ibvd&rid=giphy.gif&ct=g" width="50px"/> <big>Software Engineer, a beginner in MERN Stack Development.(Forever Learner)</big></h3>
 
 
  - 👨🏻‍💻 I’m currently working on MERN Stack;
