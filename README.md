@@ -11,7 +11,7 @@
 - 👀 I’m interested in FrontEnd & Backend Development.
 - 🌱 Enhancing my knowledge on Web Development.
 - 📫 Reach out to me: <a href="mailto:ayushi18071998@gmail.com">Gmail</a>
-- 📝 [Resume]().
+<!-- - 📝 [Resume]().-->
 
 
 
