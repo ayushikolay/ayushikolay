@@ -10,7 +10,7 @@
  - 👨🏻‍💻 I’m currently working on MERN Stack;
 - 👀 I’m interested in FrontEnd & Backend Development.
 - 🌱 Enhancing my knowledge on Web Development.
-- 📫 Reach out to me: <a href="mailto:ayushi18071998@gmail.com">Gmail</a>
+- 📫 Reach out to me: <a href="mailto:ayushi18071998@gmail.com">Gmail: ayushi18071998@gmail.com</a> | <a href="https://www.linkedin.com/in/ayushi-kolay/" target="_blank">LinkedIn</a>
 <!-- - 📝 [Resume]() -->
 
 
