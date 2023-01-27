@@ -15,7 +15,9 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ayushikolay.ayushikolay)
+### Glad to see you here! &nbsp; 
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ayushikolay.visitor-badge&left_text=MyPageVisitors) -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ayushikolay.ayushikolay)
 <br>
 
 <hr>
