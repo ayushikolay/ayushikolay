@@ -26,9 +26,13 @@
 
 <h2> GitHub Stats </h2>
 
-<p align="center">&nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushikolay&show_icons=true&hide_border=true&&count_private=true&theme=dracula&include_all_commits=true" />
-&nbsp;
-<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushikolay&layout=compact&theme=dracula&hide_border=true">
+
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushikolay&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushikolay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <p align="center">&nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushikolay&show_icons=true&hide_border=true&&count_private=true&theme=dracula&include_all_commits=true" />
+&nbsp; -->
+<!-- <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushikolay&layout=compact&theme=dracula&hide_border=true"> -->
 
 <br>
 <!--
